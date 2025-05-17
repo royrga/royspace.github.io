@@ -1,0 +1,60 @@
+# Hugo default ignore patterns
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+.hugo_build.lock
+
+# Node.js dependencies
+/node_modules/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Hugo modules
+/pkg/
+
+# Debug files
+debug
+*.log
+
+# Environment files
+.env
+.env.local
+
+# macOS files
+._*
+
+# Windows files
+[Tt]humbs.db
+
+# Test files
+/test/
+/tests/
+
+# Hugo module files
+hugo_stats.json
+
+# Hugo build output
+/public/
+/output/
+
+# Local development files
+.localhost
