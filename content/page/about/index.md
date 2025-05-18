@@ -1,11 +1,13 @@
 ---
-title: "Acerca de mi"
-description: "Nosce Te Ipsum" 
-date: 2025-05-17T22:39:59-06:00
-license:
+title: Acerca de mi
+description: Nosce Te Ipsum 
+date: '2025-05-17'
+aliases: 
+  - sobre-mi
+  - sobre-roy
+  - contacto
+license: CC BY-NC-ND
 lastmod: '2025-05-18'
-# comments: true
-draft: true
 menu:
     main: 
         weight: -90
