@@ -7,6 +7,9 @@ theme = "hugo-theme-stack"
 DefaultContentLanguage = "en"
 hasCJKLanguage = false
 
+[cahes]
+  [caches.images]
+    dir = ':cacheDir/images'
 # [languages.en]
 # languageName = "English"
 # title = "Example Site"
