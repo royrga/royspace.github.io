@@ -1,11 +1,9 @@
 ---
 title: "Acerca de mi"
-description: 
+description: "Nosce Te Ipsum" 
 date: 2025-05-17T22:39:59-06:00
-image: 
-math: 
-license: 
-hidden: false
+license:
+lastmod: '2025-05-18'
 # comments: true
 draft: true
 menu:
@@ -26,4 +24,3 @@ artísticas.
 También practico la guitarra y hago fotografía de principiante.
 
 En cuanto a deportes practico squash y hago rutas en bicicleta.
-
