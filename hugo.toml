@@ -4,19 +4,34 @@ title = '<< R~G~A >>'
 # theme = "hello-friend-ng"
 theme = "hugo-theme-stack"
 
-DefaultContentLanguage = "en"
+# Theme i18n support
+# Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
+DefaultContentLanguage = "es"
 hasCJKLanguage = false
 
+# Englisg language parameters
+[languages.en]
+languageName = "English"
+title = "<< R~G~A >>"
+weight = 2
+
+[languages.en.params.sidebar]
+subtitle = "Example description"
+
+# Spanish language parameters
+[languages.es]
+languageName = "Español"
+title = "<< R~G~A >>"
+weight = 1
+
+[languages.es.params.sidebar]
+subtitle = "Cosas que hago cuando estoy aburrido"
+
+# Cache configuration
 [cahes]
   [caches.images]
     dir = ':cacheDir/images'
-# [languages.en]
-# languageName = "English"
-# title = "Example Site"
-# weight = 1
-#
-# [languages.en.params.sidebar]
-# subtitle = "Example description"
+
 
 [services.disqus]
 shortname = "hugo-theme-stack"
