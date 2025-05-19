@@ -2,7 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = '<< R~G~A >>'
 # theme = "hello-friend-ng"
-theme = "hugo-theme-stack"
+theme = ["hugo-video","hugo-theme-stack"]
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw

@@ -61,7 +61,7 @@ natural (animales, aves, viento, ríos).
 
 Prueba durante montaje
 
-{{< video src="/royspace.github.io/video/biofilia/video_montaje.m4v" >}}
+{{< video src="video_montaje" >}}
 
 #### Exposición
 
