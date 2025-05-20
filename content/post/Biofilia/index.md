@@ -53,7 +53,8 @@ Para reemplazar los sonidos de la ciudad por sonidos de la naturaleza en su tota
 es necesario tocar todas las plantas pero para esto es necesaria la cooperación
 de más personas, una vez que todas las personas, de manera simultanea, están en contacto
 con las plantas el ambiente sonoro para ese momento sera totalmente de origen
-natural (animales, aves, viento, ríos).
+natural (animales, aves, viento, ríos). Una vez logrado esto los sonidos se desvanecen
+para dar lugar a una canción como recompensa por lograr conectar con la naturaleza.
 
 ### Montaje y exposición
 
@@ -70,6 +71,26 @@ Prueba durante montaje
 ![Pieza en exposición 2](expo3.png)
 
 ![Pieza en exposición 3](expo1.jpeg)
+
+### Revive la experiencia
+
+Sonidos de la naturaleza:
+
+🐦{{< audio src="aves.mp3">}}  
+🦉{{< audio src="buho.mp3">}}  
+⛈️{{< audio src="nature_1.mp3">}}  
+🦗{{< audio src="nature_6.mp3">}}  
+🌊{{< audio src="olas.mp3">}}  
+
+>Reproduce todos los sonidos de la naturaleza a la vez.
+
+Sonidos de la ciudad:
+
+🏘️🏭🚗{{< audio src="sonidos_ciudad.mp3">}}
+
+Canción:
+
+🎵{{< audio src="song.mp3">}}
 
 ## Agradecimientos
 
