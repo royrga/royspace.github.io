@@ -25,7 +25,7 @@ title = "<< R~G~A >>"
 weight = 1
 
 [languages.es.params.sidebar]
-subtitle = "Cosas que hago cuando estoy aburrido"
+subtitle = "Mi portafolio de programación, ingenieria, arte digital, fotografía y música"
 
 # Cache configuration
 [cahes]
@@ -39,7 +39,7 @@ shortname = "hugo-theme-stack"
 [services.googleAnalytics]
 
 [pagination]
-pagerSize = 3
+pagerSize = 10
 
 [permalinks]
 post = "/p/:slug/"
@@ -101,7 +101,7 @@ rssFullContent = true
 
     [params.comments.twikoo]
 
-    [params.comments.cactus]
+
     defaultHomeserverUrl = "https://matrix.cactus.chat:8448"
     serverName = "cactus.chat"
     siteName = ""

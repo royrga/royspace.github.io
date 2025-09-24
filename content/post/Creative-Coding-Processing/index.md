@@ -1,6 +1,6 @@
 ---
 title: "Programación creativa con Processing"
-description: "Creación de gráficos experimentales mediante programación en el entorno de desarrollo de Processing"
+description: "Creación de gráficos experimentales mediante programación en el entorno de desarrollo Processing"
 date: 2025-05-16T10:42:05-06:00
 image: "ellipse_0463.png"
 categories: [
@@ -40,17 +40,24 @@ color final de cada píxel.
 
 ### Circles
 
+Patrones circulares
 {{< video autoplay="true"  src="circle_patterns" >}}
+
+Círculos blancos y negros en tamaño y posición aleatorios
 {{< video autoplay="true" src="circles_video" >}}
 
 ### Elipses
 
+Rotación de elipses variando parámetro de anchura y color
 {{< video autoplay="true" src="ellipse_rotation" >}}
 {{< video autoplay="true" src="ellipses_c1" >}}
+
+Elipses con grosor de linea y posición aleatorias, variación de color. 
 {{< video autoplay="true" src="ellipses_chaos_2" >}}
 
 ### Shaders
 
+Experimentación con shaders
 {{< video autoplay="true" src="shaders/video_1" >}}
 {{< video autoplay="true" src="shaders/video_2" >}}
 {{< video autoplay="true" src="shaders/video_3" >}}
