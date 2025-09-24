@@ -1,7 +1,7 @@
 ---
 title: "Pieles Inteligentes"
 description: "Proyecto interdisciplinario con el objetivo de crear una estructura que emule capacidades de la piel humana"
-date: 2025-09-24T10:42:05-06:00
+date: 2017-05-24T10:42:05-06:00
 image: "Pieles.png"
 categories: [
   "Ingenieria"
