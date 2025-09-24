@@ -1,8 +1,11 @@
 ---
 title: "Biofilia"
 description: "Proyecto artístico-tecnológico que explora ideas relacionadas al antropoceno"
-date: 2025-05-16T10:42:05-06:00
+date: 2021-09-24T10:42:05-06:00
 image: "expo.jpeg"
+categories: [
+"Arte"
+] 
 math: 
 license: 
 hidden: false
