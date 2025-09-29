@@ -23,6 +23,6 @@ dirigido hacia la programación en C, python, java, kotlin, typescript, processi
 Me gusta aprender herramientas digitales con las que se pueden crear expresiones
 artísticas.
 
-También practico la guitarra y hago fotografía.
+También practico guitarra y hago fotografía.
 
-En cuanto a deportes practico squash y hago rutas en bicicleta.
+En cuanto a deportes practico squash y ciclismo.

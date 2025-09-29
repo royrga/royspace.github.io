@@ -49,7 +49,6 @@ y obtener datos de cada pixel
 ![](IMG_4274.jpeg)
 
 ![](IMG_4276.jpeg)
-![](IMG_4277.jpeg)
 
 Primera prueba enviando multiples imágenes, en el monitor se muestra la animación que generó
 las imágenes. Las velocidades de reproducción entre la matriz LEDs y el monitor
