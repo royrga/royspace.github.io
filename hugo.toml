@@ -16,7 +16,7 @@ title = "<< R~G~A >>"
 weight = 2
 
 [languages.en.params.sidebar]
-subtitle = "Example description"
+subtitle = "My portfolio of programming, engineering, digital art, photography and music"
 
 # Spanish language parameters
 [languages.es]
@@ -69,7 +69,7 @@ rssFullContent = true
   [params.article]
   math = false
   toc = true
-  readingTime = true
+  readingTime = false
 
     [params.article.license]
     enabled = true
