@@ -33,8 +33,11 @@ El proyecto consta de 3 elementos principales:
 
 ## Construcción
 
-![Cableado](IMG_4268.jpeg)
-![Tiras](IMG_4269.jpeg)
+Tiras
+<iframe src="https://drive.google.com/file/d/1jGsHLDiE8iEuCQnZ_e_qlwAACXyo7wcH/preview" width="640" height="480" allow="autoplay"></iframe>
+
+Cableado
+<iframe src="https://drive.google.com/file/d/1O0PWjU6M_5IP3a468848yCramvv21C1N/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Desarrollo
 
@@ -45,17 +48,16 @@ Usa el microcontrolador Arduino NANO.
 Primeras pruebas procesando imágenes para adecuar a la resolución de la matriz
 y obtener datos de cada pixel
 
-![](IMG_4271.jpeg)
-![](IMG_4274.jpeg)
-
-![](IMG_4276.jpeg)
+<iframe src="https://drive.google.com/file/d/1r-5-okGCz9bAncuUuZtjhijFxamQi8sb/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1cABqsmE-tSfhUwAzuJUTofJxQn_K5qEz/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1IdqRH6i3iWQoCqvb2NYy3a6TcUdu2diJ/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Primera prueba enviando multiples imágenes, en el monitor se muestra la animación que generó
 las imágenes. Las velocidades de reproducción entre la matriz LEDs y el monitor
 no coinciden por las capacidades limitadas del microcontrolador.
 
-{{< video autoplay="true"  src="video1er.m4v" >}}
-{{< video autoplay="true"  src="video2_1er.m4v" >}}
+<iframe src="https://drive.google.com/file/d/1A4c_a9bTwjHB_z-FzImyxUiTiTNOU898/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1pKZGJBVLj4ZRMxI0JSbFlXFXAXh7fBK9/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ### 2do Prototipo
 
@@ -73,15 +75,15 @@ todos los frames almacenados como imágenes.
 Las animaciones son generadas con código desarrollado en Processing.
 
 Animación interactiva en tiempo real , interacción con el cursor.
-{{< video autoplay="true"  src="vid2do_1.m4v" >}}
+<iframe src="https://drive.google.com/file/d/1EK_LVnaq31ZS-c8XeCOHUmZpKKA7tsvD/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Animaciones
-{{< video autoplay="true"  src="vid2do_2.m4v" >}}
-{{< video autoplay="true"  src="vid2d0_3.m4v" >}}
+<iframe src="https://drive.google.com/file/d/1HV0y0gYDatqPG0RqtwYk1_7pcZH2C5g4/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1IP98pjyZ0BjVF7B2LfbkUCixOCzOVuJM/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Video tomado de la cámara web y direccionado a la matriz de LEDs
-{{< video autoplay="true"  src="vid2do_4.m4v" >}}
-{{< video autoplay="true"  src="vid2do_6.m4v" >}}
+<iframe src="https://drive.google.com/file/d/1dnlYpQqgUCracpzM0efwfWHSnAPcrTGG/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1V2TbvfwGl3p5MWDXpLCNgd-ieySDpzkh/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Animación interactiva con entrada de audio desde guitarra
-{{< video autoplay="true"  src="vid2do_5.m4v" >}}
+<iframe src="https://drive.google.com/file/d/1LQXzg63VPCh1lM5jYrQVkoGE7Sm4vYp2/preview" width="640" height="480" allow="autoplay"></iframe>
