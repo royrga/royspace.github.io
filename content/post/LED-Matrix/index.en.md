@@ -3,40 +3,39 @@ title: "LEDs Matrix"
 description: "Development of an LED matrix and implementation of a system that generates, processes, and displays images/video from a computer via serial communication."
 date: 2025-09-23T10:42:05-06:00
 image: "LEDsMatrix.png"
-categories: [
-  "Engineering",
-  "Art"
-] 
-math: 
-license: 
+categories: ["Engineering", "Art"]
+math:
+license:
 hidden: false
-comments: false 
+comments: false
 ---
 
-## Descripción
+## Description
 
-Matriz de LEDs con la capacidad de mostrar imágenes o video con
-una resolución de 9x20 pixeles y una tasa de refresco de 90 fps.
-Las imágenes/videos son procesados desde una computadora para
-codificar los datos y enviarlos a un microcontrolador (stm32)
-para generar la señal con los datos que serán consumidos por
-las tiras LED.
+LED matrix with the ability to display images or video with
+a resolution of 9x20 pixels and a refresh rate of 90 fps.
+The images/videos are processed from a computer to
+encode the data and send it to a microcontroller (stm32)
+to generate the signal with the data that will be consumed by
+the LED strips.
 
-El proyecto consta de 3 elementos principales:
+The project consists of 3 main elements:
 
-- Tiras LEDs(ws2812b): conectadas en serie
-- Microcontrolador(STM32 Nucleo-C031C6): Recibe los datos procesados por
-  comunicación serial
-- Computadora (Windows, OS, Linux): Ejecuta script que procesa las
-  imágenes/videos y envía los datos por serial. Adicionalmente también es
-  capaz de enviar animaciones generadas con el software Processing.
+- `LED strips` (ws2812b): connected in series
+- `Microcontroller` (STM32 Nucleo-C031C6): Receives the data processed by
+  serial communication
+- `Computer` (Windows, OS, Linux): Runs script that processes the
+  images/videos and sends the data via serial. Additionally, it is also
+  capable of sending animations generated with Processing software.
 
-## Construcción
+## Construction
 
 Strips
+
 <iframe src="https://drive.google.com/file/d/1jGsHLDiE8iEuCQnZ_e_qlwAACXyo7wcH/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Wiring
+
 <iframe src="https://drive.google.com/file/d/1O0PWjU6M_5IP3a468848yCramvv21C1N/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Development
@@ -75,15 +74,19 @@ stored as images.
 The animations are generated with code developed in Processing.
 
 Real-time interactive animation, cursor interaction.
+
 <iframe src="https://drive.google.com/file/d/1EK_LVnaq31ZS-c8XeCOHUmZpKKA7tsvD/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Animations
+
 <iframe src="https://drive.google.com/file/d/1HV0y0gYDatqPG0RqtwYk1_7pcZH2C5g4/preview" width="640" height="480" allow="autoplay"></iframe>
 <iframe src="https://drive.google.com/file/d/1IP98pjyZ0BjVF7B2LfbkUCixOCzOVuJM/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Video taken from the webcam and directed to the matrix LEDs
+
 <iframe src="https://drive.google.com/file/d/1dnlYpQqgUCracpzM0efwfWHSnAPcrTGG/preview" width="640" height="480" allow="autoplay"></iframe>
 <iframe src="https://drive.google.com/file/d/1V2TbvfwGl3p5MWDXpLCNgd-ieySDpzkh/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Interactive animation with audio input from guitar
+
 <iframe src="https://drive.google.com/file/d/1LQXzg63VPCh1lM5jYrQVkoGE7Sm4vYp2/preview" width="640" height="480" allow="autoplay"></iframe>
